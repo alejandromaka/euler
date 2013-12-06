@@ -10,6 +10,16 @@ solving euler problems using ruby.
 	</li>
 	</br>
 	<li>
+		<b>even fibonacci numbers</b><br/>
+		By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
+	</li>
+	<br/>
+	<li>
+		<b>largest prime factor</b><br/>
+		What is the largest prime factor of the number 600851475143 ?
+	</li>
+	<br/>
+	<li>
 		<b>bonus: triangle (incomplete)</b>
 		<br/>
 		by starting at the top of the triangle and moving to adjacent numbers on the row below, the maximum total from top to bottom is 27.<br/><br/>
