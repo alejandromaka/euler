@@ -4,7 +4,7 @@ project euler
 solving euler problems using ruby.
 <ol>
     <li>
-		<b>Multiples of 3 and 5</b><br/>
+		<b>multiples of 3 and 5</b><br/>
 		If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.<br/>
 		Find the sum of all the multiples of 3 or 5 below 1000.
 	</li>
@@ -18,7 +18,7 @@ solving euler problems using ruby.
 		<b>largest prime factor</b><br/>
 		What is the largest prime factor of the number 600851475143 ?
 	</li>
-	<br/>
+<!-- 	<br/>
 	<li>
 		<b>bonus: triangle (incomplete)</b>
 		<br/>
@@ -30,9 +30,7 @@ solving euler problems using ruby.
      0 7 1 5</pre>
 		i.e. 5 + 9 + 6 + 7 = 27.<br/><br/>
 		write a program in a language of your choice to find the maximum total from top to bottom in triangle.txt, a text file containing a triangle with 100 rows.
-		<br/>
-		this is my solution in ruby.
-	</li>
+	</li> -->
 	<br/>
 	<li>
 		<b>bonus: my knapsack ruby solutions</b>
