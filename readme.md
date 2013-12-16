@@ -1,6 +1,5 @@
 project euler
 ==
-<br/>
 solving euler problems using ruby.
 <ol>
     <li>
@@ -17,6 +16,27 @@ solving euler problems using ruby.
 		<b>largest prime factor</b><br/>
 		What is the largest prime factor of the number 600851475143 ?
 	</li>
+	<li>
+		<b>largest palindrome product</b><br/>
+		Find the largest palindrome made from the product of two 3-digit numbers.
+	</li>
+	<li>
+		<b>smallest multiple</b><br/>
+		What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+	</li>
+	<li>
+		<b>sum square difference</b><br/>
+		Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+	</li>
+	<li>
+		<b>10001st prime</b><br/>
+		What is the 10001st prime number?
+	</li>
+	<li>
+		<b>largest product in a series</b><br/>
+		Find the greatest product of five consecutive digits in the 1000-digit number.
+	</li>
+
 <!-- 	<br/>
 	<li>
 		<b>bonus: triangle (incomplete)</b>
