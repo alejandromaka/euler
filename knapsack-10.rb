@@ -21,7 +21,7 @@ class Knapsack
 
 	def start
 		# ask for info
-		begin 
+		begin
 			puts "enter the size of the knapsack: "
 			size = gets.to_i
 			puts "enter all weights separated by a space: "

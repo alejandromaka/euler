@@ -1,15 +1,20 @@
 function insertionsort(arr) {
-  const result = arr.slice();
-  for (let i=0; i<result.length;i++) {
+  let result = arr.slice();
+  for (let i=0; i<result.length; i++) {
     let j=i-1;
     let pointer=i;
     while (result[j] > result[pointer]) {
-      const temp = result[j];
-      result[j] = result[pointer];
-      result[pointer] = temp;
+      result = swap(result, pointer, j);
       j--;
       pointer--;
     }
   }
   return result;
+}
+
+function swap(arr, i, j) {
+  const temp = arr[i];
+  arr[i] = arr[j];
+  arr[j] = temp;
+  return arr;
 }
